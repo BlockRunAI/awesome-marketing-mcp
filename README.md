@@ -78,6 +78,12 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 |------|-------------|---------|-------|-------------|
 | [google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) | Google Ad Manager MCP | Free | ![stars](https://img.shields.io/github/stars/MatiousCorp/google-ad-manager-mcp?style=flat) | *[@ysfbsf](https://github.com/ysfbsf)* |
 
+### Analytics
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [stape-mcp-server](https://github.com/stape-io/stape-mcp-server) | Stape server-side tracking API | Free | ![stars](https://img.shields.io/github/stars/stape-io/stape-mcp-server?style=flat) | *[@stape-io](https://github.com/stape-io)* |
+
 ---
 
 ## Contributing
