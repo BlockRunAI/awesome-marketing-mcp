@@ -15,6 +15,7 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 - [Content & CMS](#content--cms)
 - [Messaging](#messaging)
 - [Feature Flags](#feature-flags)
+- [Community Contributions](#community-contributions) 🆕
 
 ---
 
@@ -58,6 +59,24 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [LaunchDarkly MCP](https://github.com/launchdarkly/mcp-server) | Feature flags and testing | Freemium | ![GitHub stars](https://img.shields.io/github/stars/launchdarkly/mcp-server?style=flat) |
+
+---
+
+## Community Contributions
+
+> 🙏 Thanks to these contributors who submitted their MCP servers!
+
+### Social Media
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [insta-mcp](https://github.com/arjun1194/insta-mcp) | Instagram MCP integration | Free | ![stars](https://img.shields.io/github/stars/arjun1194/insta-mcp?style=flat) | *[@arjun1194](https://github.com/arjun1194)* |
+
+### Advertising
+
+| Name | Description | Pricing | Stars | Contributor |
+|------|-------------|---------|-------|-------------|
+| [google-ad-manager-mcp](https://github.com/MatiousCorp/google-ad-manager-mcp) | Google Ad Manager MCP | Free | ![stars](https://img.shields.io/github/stars/MatiousCorp/google-ad-manager-mcp?style=flat) | *[@ysfbsf](https://github.com/ysfbsf)* |
 
 ---
 
