@@ -48,6 +48,8 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 | [Pinterest MCP](https://github.com/pinterest/mcp-server) | Pinterest pins and boards | Requires account | ![GitHub stars](https://img.shields.io/github/stars/pinterest/mcp-server?style=flat) |
 | [Buffer MCP](https://github.com/buffer/mcp-server) | Social media scheduling | Requires account | ![GitHub stars](https://img.shields.io/github/stars/buffer/mcp-server?style=flat) |
 | [Hootsuite MCP](https://github.com/hootsuite/mcp-server) | Social media management | Requires account | ![GitHub stars](https://img.shields.io/github/stars/hootsuite/mcp-server?style=flat) |
+| [XiaoHongShu MCP](https://github.com/xpzouying/xiaohongshu-mcp) | RedNote/小红书 content access | Free | ![GitHub stars](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat) |
+| [RedNote MCP](https://github.com/iFurySt/RedNote-MCP) | XiaoHongShu for AI agents | Free | ![GitHub stars](https://img.shields.io/github/stars/iFurySt/RedNote-MCP?style=flat) |
 
 ---
 
