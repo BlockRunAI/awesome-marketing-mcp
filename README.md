@@ -57,6 +57,7 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
+| [X Grow](https://github.com/BlockRunAI/x-grow) | X/Twitter algorithm optimizer - drafts, reviews, images | Free | ![GitHub stars](https://img.shields.io/github/stars/BlockRunAI/x-grow?style=flat) |
 | [Twitter/X MCP](https://github.com/vidhupv/x-mcp) | Twitter posts, analytics | Free | ![GitHub stars](https://img.shields.io/github/stars/vidhupv/x-mcp?style=flat) |
 | [LinkedIn MCP](https://github.com/stickerdaniel/linkedin-mcp-server) | LinkedIn profiles, companies, and jobs | Requires account | ![GitHub stars](https://img.shields.io/github/stars/stickerdaniel/linkedin-mcp-server?style=flat) |
 | [XiaoHongShu MCP](https://github.com/xpzouying/xiaohongshu-mcp) | RedNote/XiaoHongShu content access | Free | ![GitHub stars](https://img.shields.io/github/stars/xpzouying/xiaohongshu-mcp?style=flat) |
