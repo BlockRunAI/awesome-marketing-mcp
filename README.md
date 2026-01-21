@@ -10,12 +10,48 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 
 ## Contents
 
+- [Analytics](#analytics)
+- [Advertising](#advertising)
+- [SEO](#seo)
 - [Social Media](#social-media)
 - [CRM](#crm)
 - [Content & CMS](#content--cms)
 - [Messaging](#messaging)
 - [Feature Flags](#feature-flags)
 - [Community Contributions](#community-contributions) 🆕
+
+---
+
+## Analytics
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Google Analytics MCP](https://github.com/googleanalytics/google-analytics-mcp) | Official GA4 MCP with 200+ dimensions & metrics | Free | ![GitHub stars](https://img.shields.io/github/stars/googleanalytics/google-analytics-mcp?style=flat) |
+| [Google Analytics MCP](https://github.com/surendranb/google-analytics-mcp) | GA4 data for Claude, Cursor, Windsurf | Free | ![GitHub stars](https://img.shields.io/github/stars/surendranb/google-analytics-mcp?style=flat) |
+| [Google Search Console MCP](https://github.com/AminForou/mcp-gsc) | SEO data, search analytics, URL inspection | Free | ![GitHub stars](https://img.shields.io/github/stars/AminForou/mcp-gsc?style=flat) |
+| [Lighthouse MCP](https://github.com/danielsogl/lighthouse-mcp-server) | Web performance, accessibility, SEO auditing | Free | ![GitHub stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat) |
+| [Apify MCP](https://github.com/apify/apify-mcp-server) | Web scraping from social media, search engines | Freemium | ![GitHub stars](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat) |
+
+---
+
+## Advertising
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [Google Ads MCP](https://github.com/cohnen/mcp-google-ads) | Campaign analysis, keyword analytics, budget management | Free | ![GitHub stars](https://img.shields.io/github/stars/cohnen/mcp-google-ads?style=flat) |
+| [Google Ads MCP](https://github.com/google-marketing-solutions/google_ads_mcp) | Official Google Ads API integration | Free | ![GitHub stars](https://img.shields.io/github/stars/google-marketing-solutions/google_ads_mcp?style=flat) |
+| [Meta Ads MCP](https://github.com/pipeboard-co/meta-ads-mcp) | Facebook/Instagram Ads management and optimization | Free | ![GitHub stars](https://img.shields.io/github/stars/pipeboard-co/meta-ads-mcp?style=flat) |
+| [Facebook MCP](https://github.com/HagaiHen/facebook-mcp-server) | Facebook Page posts, comments, insights | Free | ![GitHub stars](https://img.shields.io/github/stars/HagaiHen/facebook-mcp-server?style=flat) |
+
+---
+
+## SEO
+
+| Name | Description | Pricing | Stars |
+|------|-------------|---------|-------|
+| [SEO MCP](https://github.com/cnych/seo-mcp) | Free SEO tool with Ahrefs data | Free | ![GitHub stars](https://img.shields.io/github/stars/cnych/seo-mcp?style=flat) |
+| [DataForSEO MCP](https://github.com/Skobyn/dataforseo-mcp-server) | Comprehensive SEO API integration | Free | ![GitHub stars](https://img.shields.io/github/stars/Skobyn/dataforseo-mcp-server?style=flat) |
+| [SEO Insights MCP](https://github.com/mrgoonie/seo-insights-mcp-server) | Backlinks, keyword research, traffic analysis | Free | ![GitHub stars](https://img.shields.io/github/stars/mrgoonie/seo-insights-mcp-server?style=flat) |
 
 ---
 
