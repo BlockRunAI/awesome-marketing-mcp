@@ -27,8 +27,6 @@ A curated list of MCP (Model Context Protocol) servers for marketing, growth, an
 | Name | Description | Pricing | Stars |
 |------|-------------|---------|-------|
 | [Google Analytics MCP](https://github.com/googleanalytics/google-analytics-mcp) | Official GA4 MCP with 200+ dimensions & metrics | Free | ![GitHub stars](https://img.shields.io/github/stars/googleanalytics/google-analytics-mcp?style=flat) |
-| [Google Analytics MCP](https://github.com/surendranb/google-analytics-mcp) | GA4 data for Claude, Cursor, Windsurf | Free | ![GitHub stars](https://img.shields.io/github/stars/surendranb/google-analytics-mcp?style=flat) |
-| [Google Search Console MCP](https://github.com/AminForou/mcp-gsc) | SEO data, search analytics, URL inspection | Free | ![GitHub stars](https://img.shields.io/github/stars/AminForou/mcp-gsc?style=flat) |
 | [Lighthouse MCP](https://github.com/danielsogl/lighthouse-mcp-server) | Web performance, accessibility, SEO auditing | Free | ![GitHub stars](https://img.shields.io/github/stars/danielsogl/lighthouse-mcp-server?style=flat) |
 | [Apify MCP](https://github.com/apify/apify-mcp-server) | Web scraping from social media, search engines | Freemium | ![GitHub stars](https://img.shields.io/github/stars/apify/apify-mcp-server?style=flat) |
 
